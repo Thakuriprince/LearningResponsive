@@ -1,0 +1,24 @@
+/* font-family abel*/
+@font-face{
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+/* font-family anton*/
+@font-face{
+    font-family: Anton;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+
+/* font-family livvic */
+@font-face{
+    font-family: livvic;
+    src: url('../fonts/Livvic/Livvic-Regular.ttf');
+}
+
+/* font-family Roboto*/
+@font-face{
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
